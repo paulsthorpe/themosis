@@ -1,0 +1,33 @@
+{
+  "name": "themosis",
+  "version": "1.0.0",
+  "description": "A custom wordpress starter utilizing Themosis, Eloquent ORM, NPM/Gulp and more soon. The goal is to have a modern development workflow for wordpress devs'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsthorpe/themosis.git"
+  },
+  "author": "Paul Thorpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulsthorpe/themosis/issues"
+  },
+  "homepage": "https://github.com/paulsthorpe/themosis#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}

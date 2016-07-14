@@ -21,3 +21,5 @@ vendor/
 ### Environment Credentials
 .env.*.php
 !.env.local.php
+
+node_modules
