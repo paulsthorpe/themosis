@@ -1,1 +1,2 @@
 path: htdocs/cms
+WP_CLI::add_command( 'make', 'Make' );
